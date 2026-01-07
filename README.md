@@ -71,15 +71,15 @@ NOVA is a Python-based voice-controlled AI assistant designed to interact natura
 <br>
 - What is today's date
 <br>
-- Wikipedia Elon Musk
+- Wikipedia Virat Kohli
 <br>
 - Take screenshot
 <br>
 - Repeat that
 <br>
-- Open Notepad
+- Open VS Code
 <br>
-- Play shape of you
+- Play industry baby
 <br>
 - Tell me a joke
 <br>
@@ -101,8 +101,6 @@ NOVA/
 │── README.md
 <br>
 │── requirements.txt
-<br><br>
 
 <h2>Summary</h2>
-<br>
 NOVA is a practical AI assistant project demonstrating voice interaction, desktop automation, API integration, and intelligent responses. It is suitable for learning, experimentation, and portfolio showcase.
