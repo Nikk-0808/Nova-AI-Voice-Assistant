@@ -3,7 +3,7 @@
 NOVA is a Python-based voice-controlled AI assistant designed to interact naturally with users, automate desktop tasks, fetch information, and respond intelligently using AI. It listens for a wake word, processes voice commands, and performs both online and offline actions.
 
 
-<img width="1024" height="1536" alt="nova flowchart" src="https://github.com/user-attachments/assets/e99a3d82-59d4-49f7-9194-ee615e137b17" />
+<img width="1024" height="1100" alt="nova flowchart" src="https://github.com/user-attachments/assets/e99a3d82-59d4-49f7-9194-ee615e137b17" />
 
 <h2>Features</h2>
 <br>
@@ -20,7 +20,6 @@ NOVA is a Python-based voice-controlled AI assistant designed to interact natura
 <br>
 - Repeat last response memory
 <br><br>
-<img width="1024" height="1536" alt="nova flowchart" src="https://github.com/user-attachments/assets/e99a3d82-59d4-49f7-9194-ee615e137b17" />
 
 <b>Information & Intelligence</b>
 <br>
