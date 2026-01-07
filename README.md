@@ -18,8 +18,13 @@ NOVA is a Python-based voice assistant that can listen, speak, fetch news headli
 
 ## Project Structure
 NOVA/
+</br>
 │── main.py
+</br>
 │── client.py
+</br>
 │── music_library.py
+</br>
 │── README.md
+</br>
 │── requirements.txt
