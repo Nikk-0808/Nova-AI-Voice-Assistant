@@ -1,4 +1,4 @@
-# NOVA TALKING AI ASSISTANT
+# NOVA TALKING AI ASSISTANT(just like jarvis)
 
 NOVA is a Python-based voice assistant that can listen, speak, fetch news headlines, crack jokes, and perform basic automation tasks.
 
